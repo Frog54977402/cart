@@ -1,0 +1,4 @@
+int1 = 10
+float1 = 3.14159
+str1 = "int1 = %d, float1 = %f" % (int1, float1)
+print(str1)  # int1 = 10, float1 = 3.141590
